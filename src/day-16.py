@@ -1,5 +1,4 @@
 import argparse
-import copy
 
 def main(args):
 	moves = []
